@@ -1,0 +1,5 @@
+# build / capture scripts and the packaged zip are not part of the website
+build/
+*.zip
+.vscode/
+.DS_Store
